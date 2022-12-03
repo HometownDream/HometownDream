@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HometownDream&show_icons=true&theme=radical)
+#### [个人博客](javatogo.site): javatogo.site
+
+#### [人人点评](http://124.222.8.103:8083/)
+- 账号admin 密码：111111
+#### [通用权限后台管理系统](http://124.222.8.103:8082/)
+- 切换到浏览器的手机视图
+- 验证码固定是 111111
+
+
