@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HometownDream&show_icons=true&theme=radical)
-#### [个人博客](javatogo.site): javatogo.site
+#### [个人博客](https://javatogo.site/)  javatogo.site
 
 #### [人人点评](http://124.222.8.103:8083/)
 - 账号admin 密码：111111
